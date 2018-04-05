@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: grain_hill.aux
+The style file: copernicus.bst
+Database file #1: gt_library.bib.bib
+Warning--can't use both author and editor fields in martinez1998lattice
+You've used 56 entries,
+            2811 wiz_defined-function locations,
+            1333 strings with 18528 characters,
+and the built_in function-call counts, 55580 in all, are:
+= -- 6723
+> -- 1554
+< -- 36
++ -- 804
+- -- 468
+* -- 3080
+:= -- 5158
+add.period$ -- 56
+call.type$ -- 56
+change.case$ -- 268
+chr.to.int$ -- 56
+cite$ -- 169
+duplicate$ -- 5928
+empty$ -- 2901
+format.name$ -- 660
+if$ -- 11115
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 534
+newline$ -- 177
+num.names$ -- 224
+pop$ -- 2137
+preamble$ -- 1
+purify$ -- 268
+quote$ -- 0
+skip$ -- 3915
+stack$ -- 0
+substring$ -- 2683
+swap$ -- 5173
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 501
+warning$ -- 1
+while$ -- 301
+width$ -- 0
+write$ -- 625
+(There was 1 warning)

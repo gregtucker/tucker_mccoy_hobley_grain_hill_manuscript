@@ -1,0 +1,297 @@
+\begin{thebibliography}{56}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{{\tt #1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{Ahnert(1967)}]{ahnert1967role}
+Ahnert, F.: The role of the equilibrium concept in the interpretation of
+  landforms of fluvial erosion and deposition, Proc. symp. l'{\'e}volution des
+  versants (Li{\'e}ge), 50, 23--51, 1967.
+
+\bibitem[{Alonso and Herrmann(1996)}]{alonso1996shape}
+Alonso, J. and Herrmann, H.: Shape of the tail of a two-dimensional sandpile,
+  Physical review letters, 76, 4911, doi:
+  http://dx.doi.org/10.1103/PhysRevLett.76.4911, 1996.
+
+\bibitem[{Anderson et~al.(2012)Anderson, Anderson, and
+  Tucker}]{anderson2012rock}
+Anderson, R.~S., Anderson, S.~P., and Tucker, G.~E.: Rock damage and regolith
+  transport by frost: An example of climate modulation of the geomorphology of
+  the critical zone, Earth Surface Processes and Landforms, 2012.
+
+\bibitem[{Andrews and Bucknam(1987)}]{andrews1987fitting}
+Andrews, D. and Bucknam, R.~C.: Fitting degradation of shoreline scarps by a
+  nonlinear diffusion model, Journal of Geophysical Research, 92, 12\,857--12,
+  1987.
+
+\bibitem[{Binnie et~al.(2007)Binnie, Phillips, Summerfield, and
+  Fifield}]{binnie2007tectonic}
+Binnie, S.~A., Phillips, W.~M., Summerfield, M.~A., and Fifield, L.~K.:
+  Tectonic uplift, threshold hillslopes, and denudation rates in a developing
+  mountain range, Geology, 35, 743--746, \doi{10.1130/G23641A.1},
+  \urlprefix\url{http://geology.gsapubs.org/content/35/8/743.abstract}, 2007.
+
+\bibitem[{Chen and Doolen(1998)}]{chen1998lattice}
+Chen, S. and Doolen, G.~D.: Lattice Boltzmann method for fluid flows, Annual
+  review of fluid mechanics, 30, 329--364, 1998.
+
+\bibitem[{Cottenceau and D{\'e}s{\'e}rable(2010)}]{cottenceau2010open}
+Cottenceau, G. and D{\'e}s{\'e}rable, D.: Open environment for 2d lattice-grain
+  CA, in: Cellular Automata, pp. 12--23, Springer, 2010.
+
+\bibitem[{Culling(1963)}]{culling1963soil}
+Culling, W.: Soil creep and the development of hillside slopes, The Journal of
+  Geology, pp. 127--161, 1963.
+
+\bibitem[{Culling(1965)}]{culling1965theory}
+Culling, W.: Theory of erosion on soil-covered slopes, The Journal of Geology,
+  pp. 230--254, 1965.
+
+\bibitem[{D{\'e}s{\'e}rable(2002)}]{deserable2002versatile}
+D{\'e}s{\'e}rable, D.: A versatile two-dimensional cellular automata network
+  for granular flow, SIAM Journal on Applied Mathematics, pp. 1414--1436, 2002.
+
+\bibitem[{D{\'e}s{\'e}rable et~al.(2011)D{\'e}s{\'e}rable, Dupont, Hellou, and
+  Kamali-Bernard}]{deserable2011cellular}
+D{\'e}s{\'e}rable, D., Dupont, P., Hellou, M., and Kamali-Bernard, S.: Cellular
+  automata in complex matter, Complex Systems, 20, 67, 2011.
+
+\bibitem[{Drake and Calantoni(2001)}]{drake2001discrete}
+Drake, T.~G. and Calantoni, J.: Discrete particle model for sheet flow sediment
+  transport in the nearshore, Journal of Geophysical Research: Oceans, 106,
+  19\,859--19\,868, 2001.
+
+\bibitem[{Duszy{\'n}ski and Migo{\'n}(2015)}]{duszynski2015boulder}
+Duszy{\'n}ski, F. and Migo{\'n}, P.: Boulder aprons indicate long-term gradual
+  and non-catastrophic evolution of cliffed escarpments, Sto{\l}owe Mts,
+  Poland, Geomorphology, 250, 63--77, 2015.
+
+\bibitem[{Foufoula-Georgiou et~al.(2010)Foufoula-Georgiou, Ganti, and
+  Dietrich}]{foufoula2010nonlocal}
+Foufoula-Georgiou, E., Ganti, V., and Dietrich, W.: A nonlocal theory of
+  sediment transport on hillslopes, J. Geophys. Res, 115, F00A16, 2010.
+
+\bibitem[{Furbish and Haff(2010)}]{furbish2010divots}
+Furbish, D. and Haff, P.: From divots to swales: Hillslope sediment transport
+  across divers length scales, Journal of Geophysical Research, 115, F03\,001,
+  2010.
+
+\bibitem[{Furbish et~al.(2007)Furbish, Hamner, Schmeeckle, Borosund, and
+  Mudd}]{furbish2007rain}
+Furbish, D., Hamner, K., Schmeeckle, M., Borosund, M., and Mudd, S.: Rain
+  splash of dry sand revealed by high-speed imaging and sticky paper splash
+  targets, J. Geophys. Res, 112, F01\,001, 2007.
+
+\bibitem[{Furbish et~al.(2009)Furbish, Haff, Dietrich, and
+  Heimsath}]{furbish2009statistical}
+Furbish, D., Haff, P., Dietrich, W., and Heimsath, A.: Statistical description
+  of slope-dependent soil transport and the diffusion-like coefficient, J.
+  Geophys. Res, 114, F00A05, 2009.
+
+\bibitem[{Furbish and Roering(2013)}]{furbish2013sediment}
+Furbish, D.~J. and Roering, J.~J.: Sediment disentrainment and the concept of
+  local versus nonlocal transport on hillslopes, Journal of Geophysical
+  Research: Earth Surface, 118, 937--952, 2013.
+
+\bibitem[{Furbish and Schmeeckle(2013)}]{furbish2013probabilistic}
+Furbish, D.~J. and Schmeeckle, M.~W.: A probabilistic derivation of the
+  exponential-like distribution of bed load particle velocities, Water
+  Resources Research, 49, 1537--1551, 2013.
+
+\bibitem[{Gabet(2003)}]{gabet2003sediment}
+Gabet, E.: {Sediment transport by dry ravel}, Journal of Geophysical Research,
+  108, 2049, 2003.
+
+\bibitem[{Gabet and Mendoza(2012)}]{gabet2012particle}
+Gabet, E.~J. and Mendoza, M.~K.: Particle transport over rough hillslope
+  surfaces by dry ravel: Experiments and simulations with implications for
+  nonlocal sediment flux, Journal of Geophysical Research: Earth Surface, 117,
+  2012.
+
+\bibitem[{Glade and Anderson(2017)}]{glade2017quasi}
+Glade, R. and Anderson, R.: Quasi-steady evolution of hillslopes in layered
+  landscapes: An analytic approach, Journal of Geophysical Research: Earth
+  Surface, 2017.
+
+\bibitem[{Glade et~al.(2017)Glade, Anderson, and Tucker}]{glade2017block}
+Glade, R.~C., Anderson, R.~S., and Tucker, G.~E.: Block-controlled hillslope
+  form and persistence of topography in rocky landscapes, Geology, 45,
+  311--314, 2017.
+
+\bibitem[{Gutt and Haff(1990)}]{gutt1990automata}
+Gutt, G. and Haff, P.: An automata model of granular materials, in: Proceedings
+  of the fifth distributed memory computing conference, 1990.
+
+\bibitem[{Heimsath et~al.(1997)Heimsath, Dietrich, Nishiizumi, and
+  Finkel}]{heimsath1997soil}
+Heimsath, A., Dietrich, W., Nishiizumi, K., and Finkel, R.: The soil production
+  function and landscape equilibrium, Nature, 388, 358--361, 1997.
+
+\bibitem[{Heimsath et~al.(2012)Heimsath, DiBiase, and
+  Whipple}]{heimsath2012soil}
+Heimsath, A., DiBiase, R., and Whipple, K.: Soil production limits and the
+  transition to bedrock-dominated landscapes, Nature Geoscience, 5, 210--214,
+  2012.
+
+\bibitem[{Hobley et~al.(2017)Hobley, Adams, Nudurupati, Hutton, Gasparini,
+  Istanbulluoglu, and Tucker}]{hobley2017creative}
+Hobley, D.~E., Adams, J.~M., Nudurupati, S.~S., Hutton, E.~W., Gasparini,
+  N.~M., Istanbulluoglu, E., and Tucker, G.~E.: Creative computing with
+  Landlab: an open-source toolkit for building, coupling, and exploring
+  two-dimensional numerical models of Earth-surface dynamics, Earth Surface
+  Dynamics, 5, 21, 2017.
+
+\bibitem[{Howard(1994)}]{howard1994detachment}
+Howard, A.~D.: A detachment-limited model of drainage basin evolution, Water
+  Resources Research, 30, 2261--2285, 1994.
+
+\bibitem[{Howard and Selby(1994)}]{howard1994rock}
+Howard, A.~D. and Selby, M.~J.: Rock Slopes, in: Geomorphology of Desert
+  Environments, pp. 123--172, Springer, 1994.
+
+\bibitem[{Johnstone et~al.(2017)Johnstone, Chadwick, Frias, Tagliaro, and
+  Hilley}]{johnstone2017soil}
+Johnstone, S.~A., Chadwick, K.~D., Frias, M., Tagliaro, G., and Hilley, G.~E.:
+  Soil Development over Mud-Rich Rocks Produces Landscape-Scale Erosional
+  Instabilities in the Northern Gabilan Mesa, Geological Society of America
+  Bulletin, 129, 1266--79, 2017.
+
+\bibitem[{K{\'a}rolyi and Kert{\'e}sz(1998)}]{karolyi1998lattice}
+K{\'a}rolyi, A. and Kert{\'e}sz, J.: Lattice-gas model of avalanches in a
+  granular pile, Physical Review E, 57, 852, 1998.
+
+\bibitem[{K{\'a}rolyi and Kert{\'e}sz(1999)}]{karolyi1999granular}
+K{\'a}rolyi, A. and Kert{\'e}sz, J.: Granular medium lattice gas model: the
+  algorithm, Computer physics communications, 121, 290--293, 1999.
+
+\bibitem[{K{\'a}rolyi et~al.(1998)K{\'a}rolyi, Kert{\'e}sz, Havlin, Makse, and
+  Stanley}]{karolyi1998filling}
+K{\'a}rolyi, A., Kert{\'e}sz, J., Havlin, S., Makse, H.~A., and Stanley, H.~E.:
+  Filling a silo with a mixture of grains: friction-induced segregation, EPL
+  (Europhysics Letters), 44, 386, 1998.
+
+\bibitem[{Lamb et~al.(2011)Lamb, Scheingross, Amidon, Swanson, and
+  Limaye}]{lamb2011model}
+Lamb, M.~P., Scheingross, J.~S., Amidon, W.~H., Swanson, E., and Limaye, A.: A
+  model for fire-induced sediment yield by dry ravel in steep landscapes,
+  Journal of Geophysical Research: Earth Surface, 116, 2011.
+
+\bibitem[{Lamb et~al.(2013)Lamb, Levina, DiBiase, and
+  Fuller}]{lamb2013sediment}
+Lamb, M.~P., Levina, M., DiBiase, R.~A., and Fuller, B.~M.: Sediment storage by
+  vegetation in steep bedrock landscapes: Theory, experiments, and implications
+  for postfire sediment yield, Journal of Geophysical Research: Earth Surface,
+  118, 1147--1160, 2013.
+
+\bibitem[{MacVicar et~al.(2006)MacVicar, Parrott, and Roy}]{macvicar2006two}
+MacVicar, B., Parrott, L., and Roy, A.: A two-dimensional discrete particle
+  model of gravel bed river systems, Journal of Geophysical Research: Earth
+  Surface, 111, 2006.
+
+\bibitem[{Martinez and Masson(1998)}]{martinez1998lattice}
+Martinez, J. and Masson, S.: Lattice grain models, pp. 556--563, E \& FN Spon,
+  1998.
+
+\bibitem[{McEwan and Heald(2001)}]{mcewan2001discrete}
+McEwan, I. and Heald, J.: Discrete particle modeling of entrainment from flat
+  uniformly sized sediment beds, Journal of Hydraulic Engineering, 127,
+  588--597, 2001.
+
+\bibitem[{Narteau et~al.(2001)Narteau, Le~Mou{\"e}l, Poirier, Sep{\'u}lveda,
+  and Shnirman}]{narteau2001small}
+Narteau, C., Le~Mou{\"e}l, J., Poirier, J., Sep{\'u}lveda, E., and Shnirman,
+  M.: On a small-scale roughness of the core--mantle boundary, Earth and
+  Planetary Science Letters, 191, 49--60, 2001.
+
+\bibitem[{Narteau et~al.(2009)Narteau, Zhang, Rozier, and
+  Claudin}]{narteau2009setting}
+Narteau, C., Zhang, D., Rozier, O., and Claudin, P.: Setting the length and
+  time scales of a cellular automaton dune model from the analysis of
+  superimposed bed forms, Journal of Geophysical Research: Earth Surface
+  (2003--2012), 114, 2009.
+
+\bibitem[{Peng and Herrmann(1994)}]{peng1994density}
+Peng, G. and Herrmann, H.~J.: Density waves of granular flow in a pipe using
+  lattice-gas automata, Physical Review E, 49, R1796, 1994.
+
+\bibitem[{Perron et~al.(2009)Perron, Kirchner, and
+  Dietrich}]{perron2009formation}
+Perron, J.~T., Kirchner, J.~W., and Dietrich, W.~E.: Formation of evenly spaced
+  ridges and valleys, Nature, 460, 502--505, 2009.
+
+\bibitem[{Perron et~al.(2012)Perron, Richardson, Ferrier, and
+  Lap\^otre}]{perron2012root}
+Perron, J.~T., Richardson, P.~W., Ferrier, K.~L., and Lap\^otre, M.: The Root
+  of BBranching River Networks, Nature, 492, 100--103, 2012.
+
+\bibitem[{Roering(2004)}]{roering2004soil}
+Roering, J.: Soil creep and convex-upward velocity profiles: Theoretical and
+  experimental investigation of disturbance-driven sediment transport on
+  hillslopes, Earth Surface Processes and Landforms, 29, 1597--1612, 2004.
+
+\bibitem[{Roering(2008)}]{roering2008well}
+Roering, J.: {How well can hillslope evolution models ``explain'' topography?
+  Simulating soil transport and production with high-resolution topographic
+  data}, Geological Society of America Bulletin, 120, 1248--1262, 2008.
+
+\bibitem[{Roering et~al.({1999})Roering, Kirchner, and
+  Dietrich}]{roering1999evidence}
+Roering, J., Kirchner, J., and Dietrich, W.: {Evidence for nonlinear, diffusive
+  sediment transport on hillslopes and implications for landscape morphology},
+  {WATER RESOURCES RESEARCH}, {35}, {853--870}, {1999}.
+
+\bibitem[{Roering et~al.({2001})Roering, Kirchner, Sklar, and
+  Dietrich}]{roering2001hillslope}
+Roering, J., Kirchner, J., Sklar, L., and Dietrich, W.: {Hillslope evolution by
+  nonlinear creep and landsliding: An experimental study}, {GEOLOGY}, {29},
+  {143--146}, {2001}.
+
+\bibitem[{Roering and Gerber(2005)}]{roering2005fire}
+Roering, J.~J. and Gerber, M.: Fire and the evolution of steep, soil-mantled
+  landscapes, Geology, 33, 349--352, 2005.
+
+\bibitem[{Rozier and Narteau(2014)}]{rozier2014real}
+Rozier, O. and Narteau, C.: A real-space cellular automaton laboratory, Earth
+  Surface Processes and Landforms, 39, 98--109, 2014.
+
+\bibitem[{Schmeeckle(2014)}]{schmeeckle2014numerical}
+Schmeeckle, M.~W.: Numerical simulation of turbulence and sediment transport of
+  medium sand, Journal of Geophysical Research: Earth Surface, 119, 1240--1262,
+  2014.
+
+\bibitem[{Shobe et~al.(2016)Shobe, Tucker, and Anderson}]{shobe2016hillslope}
+Shobe, C.~M., Tucker, G.~E., and Anderson, R.~S.: Hillslope-derived blocks
+  retard river incision, Geophysical Research Letters, 43, 5070--5078, 2016.
+
+\bibitem[{Small et~al.(1999)Small, Anderson, and Hancock}]{small1999estimates}
+Small, E., Anderson, R., and Hancock, G.: Estimates of the rate of regolith
+  production using 10Be and 26Al from an alpine hillslope, Geomorphology, 27,
+  131--150, 1999.
+
+\bibitem[{Tucker and Bradley(2010)}]{tucker2010trouble}
+Tucker, G. and Bradley, D.: {Trouble with diffusion: Reassessing hillslope
+  erosion laws with a particle-based model}, J. Geophys. Res, 115, 2010.
+
+\bibitem[{Tucker et~al.(2016)Tucker, Hobley, Hutton, Gasparini, Istanbulluoglu,
+  Adams, and Nudurupati}]{tucker2016celllab}
+Tucker, G.~E., Hobley, D.~E., Hutton, E., Gasparini, N.~M., Istanbulluoglu, E.,
+  Adams, J.~M., and Nudurupati, S.~S.: CellLab-CTS 2015: continuous-time
+  stochastic cellular automaton modeling using Landlab, Geoscientific Model
+  Development, 9, 823--839, 2016.
+
+\bibitem[{Zhang et~al.(2010)Zhang, Narteau, and
+  Rozier}]{zhang2010morphodynamics}
+Zhang, D., Narteau, C., and Rozier, O.: Morphodynamics of barchan and
+  transverse dunes using a cellular automaton model, Journal of Geophysical
+  Research: Earth Surface (2003--2012), 115, 2010.
+
+\bibitem[{Zhang et~al.(2012)Zhang, Narteau, Rozier, and
+  du~Pont}]{zhang2012morphology}
+Zhang, D., Narteau, C., Rozier, O., and du~Pont, S.~C.: Morphology and dynamics
+  of star dunes from numerical modelling, Nature Geoscience, 5, 463--467, 2012.
+
+\end{thebibliography}
