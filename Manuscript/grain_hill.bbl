@@ -1,4 +1,4 @@
-\begin{thebibliography}{56}
+\begin{thebibliography}{58}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{{\tt #1}}
 \providecommand{\urlprefix}{URL }
@@ -42,6 +42,10 @@ Chen, S. and Doolen, G.~D.: Lattice Boltzmann method for fluid flows, Annual
 \bibitem[{Cottenceau and D{\'e}s{\'e}rable(2010)}]{cottenceau2010open}
 Cottenceau, G. and D{\'e}s{\'e}rable, D.: Open environment for 2d lattice-grain
   CA, in: Cellular Automata, pp. 12--23, Springer, 2010.
+
+\bibitem[{Coyote(1949)}]{coyote1949fast}
+Coyote, W.~E.: Fast and furry-ous: exploring the links between gravitational
+  forces and situational awareness, Ph.D. thesis, Acme Technical College, 1949.
 
 \bibitem[{Culling(1963)}]{culling1963soil}
 Culling, W.: Soil creep and the development of hillside slopes, The Journal of
@@ -111,6 +115,11 @@ Gabet, E.~J. and Mendoza, M.~K.: Particle transport over rough hillslope
   surfaces by dry ravel: Experiments and simulations with implications for
   nonlocal sediment flux, Journal of Geophysical Research: Earth Surface, 117,
   2012.
+
+\bibitem[{Ghil et~al.(2008)Ghil, Zaliapin, and Coluzzi}]{ghil2008boolean}
+Ghil, M., Zaliapin, I., and Coluzzi, B.: Boolean delay equations: A simple way
+  of looking at complex systems, Physica D: Nonlinear Phenomena, 237,
+  2967--2986, 2008.
 
 \bibitem[{Glade and Anderson(2017)}]{glade2017quasi}
 Glade, R. and Anderson, R.: Quasi-steady evolution of hillslopes in layered
