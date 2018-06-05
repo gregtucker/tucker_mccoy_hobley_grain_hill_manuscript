@@ -2,7 +2,7 @@
 
 This repository includes:
 
-1) Source code for Grain Hill model
+1) Source code for Grain Hill model (NOTE: this is an archived version for reproducing the runs in this paper; the most up-to-date source code is in a separate [GrainHill](https://github.com/gregtucker/grain_hills) repo)
 
 2) Files and figures in submitted manuscript describing the model
 
